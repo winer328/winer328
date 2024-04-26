@@ -20,6 +20,7 @@ I am a seasoned Full-Stack developer with a passion for crafting robust web appl
 ```
 - Node.js (Express, Socket.io, Discord.js, Google+Discord+Steam+Telegram oAuth)
 - PHP (Larabel, Wordpress, CodeIgnator, Shopify)
+- Typescript
 - Mysql, MongoDB, Postgres, Oracle, Sqlite with Typeorm
 ```
 ### Frontend
