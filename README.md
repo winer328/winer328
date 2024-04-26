@@ -41,9 +41,9 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 <a target="_blank" style="margin:5px" href="https://jsgrowin-portfolio.herokuapp.com/samples/polytope/index.html" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/polytope.png?raw=true" ><br/>C600 Polytope Animation</kbd></a>
 
 ### Web app development
-<a target="_blank" style="margin:5px" href="https://linella.md/ro" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/supermarket.png?raw=true" ><br/>React Supermarket Website</kbd></a>
+<a target="_blank" style="margin:5px" href="https://linella.md/ro" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/supermarket.PNG?raw=true" ><br/>React Supermarket Website</kbd></a>
 <a target="_blank" style="margin:5px" href="https://adaevler.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/wordpress.png?raw=true" ><br/>Buy&&Sell with Wordpress</kbd></a>
-<a target="_blank" style="margin:5px" href="https://app.cashcowprotocol.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/cashcow.png?raw=true" ><br/>NFT marketing</kbd></a>
+<a target="_blank" style="margin:5px" href="https://app.cashcowprotocol.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/cashcow.PNG?raw=true" ><br/>NFT marketing</kbd></a>
 
 
 <br>
