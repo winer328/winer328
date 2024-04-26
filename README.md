@@ -29,10 +29,10 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 ```
 ## Portfolio
 
-### DApp development
-<a target="_blank" style="margin:5px" href="https://million-tokens.vercel.app/#/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/million.png?raw=true" ><br/>Million Tokens</kbd></a>
-<a target="_blank" style="margin:5px" href="https://wordles.io/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/wordles.png?raw=true" ><br/>NFT Mint Website</kbd></a>
-<a target="_blank" style="margin:5px" href="https://crypto-change.herokuapp.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/crypto.png?raw=true" ><br/>Crypto Swap using best router</kbd></a>
+### Web app development
+<a target="_blank" style="margin:5px" href="https://linella.md/ro" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/supermarket.PNG?raw=true" ><br/>React Supermarket Website</kbd></a>
+<a target="_blank" style="margin:5px" href="https://adaevler.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/wordpress.png?raw=true" ><br/>Buy&&Sell with Wordpress</kbd></a>
+<a target="_blank" style="margin:5px" href="https://app.cashcowprotocol.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/cashcow.PNG?raw=true" ><br/>NFT marketing</kbd></a>
 
 
 ### Electron and Three.js
@@ -40,11 +40,10 @@ I am full stack software engineer with 8 years of experience. Recently I have be
 <a target="_blank" style="margin:5px" href="https://three-gallary.vercel.app/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/three_gallary.png?raw=true" ><br/>Three NFT Gallary</kbd></a>
 <a target="_blank" style="margin:5px" href="https://jsgrowin-portfolio.herokuapp.com/samples/polytope/index.html" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/polytope.png?raw=true" ><br/>C600 Polytope Animation</kbd></a>
 
-### Web app development
-<a target="_blank" style="margin:5px" href="https://linella.md/ro" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/supermarket.PNG?raw=true" ><br/>React Supermarket Website</kbd></a>
-<a target="_blank" style="margin:5px" href="https://adaevler.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/wordpress.png?raw=true" ><br/>Buy&&Sell with Wordpress</kbd></a>
-<a target="_blank" style="margin:5px" href="https://app.cashcowprotocol.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/cashcow.PNG?raw=true" ><br/>NFT marketing</kbd></a>
-
+### DApp development
+<a target="_blank" style="margin:5px" href="https://million-tokens.vercel.app/#/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/million.png?raw=true" ><br/>Million Tokens</kbd></a>
+<a target="_blank" style="margin:5px" href="https://wordles.io/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/wordles.png?raw=true" ><br/>NFT Mint Website</kbd></a>
+<a target="_blank" style="margin:5px" href="https://crypto-change.herokuapp.com/" ><kbd><img height="120" width="200" src="https://github.com/gitrexdev/gitrexdev/blob/main/assets/crypto.png?raw=true" ><br/>Crypto Swap using best router</kbd></a>
 
 <br>
 <br>
