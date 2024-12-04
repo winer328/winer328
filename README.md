@@ -2,7 +2,14 @@
 
 
 ## About Me
-I am full stack software engineer with 8 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Web3, React.js etc.
+I am full stack software engineer with 8 years of experience. Recently I have been doing professional work in creating dApps like DeFi and NFT martketplace using Solidity, Rust, Anchor, Web3, React.js etc.
+I enjoy solve issues in blockchain especially Solana chain. I believe Solana is the  right place to get huge earn in blockchain.
+I'll help you to get huge earn in Solana.
+I successfully developed several types of auto trading bots in Solana.
+- Sniper bot in pumpfun, raydium
+- Copy Trading Bot in several DEXs
+- Wallet Tracker Bot
+- Dexscreener Rank/Volume/Holder/React Booster Bot
 
 <br>
 
